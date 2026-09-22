@@ -1,0 +1,2 @@
+# PyShop
+Django App!
